@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "item": "quark:marble|0",
+      "emc": 7
+    },
+    {
+      "item": "quark:limestone|0",
+      "emc": 3
+    },
+    {
+      "item": "quark:basalt|0",
+      "emc": 3
+    },
+    {
+      "item": "petrock:stoneium|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|0",
+      "emc": 1
+    },
+    {
+      "item": "industrialforegoing:pink_slime|0",
+      "emc": 3584
+    },
+    {
+      "item": "industrialforegoing:laser_lens|0",
+      "emc": 14337
+    },
+    {
+      "item": "industrialforegoing:laser_drill|0",
+      "emc": 83527
+    },
+    {
+      "item": "biomesoplenty:fleshchunk|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 3413380960
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|0",
+      "emc": 2835
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|7",
+      "emc": 13176
+    },
+    {
+      "item": "avaritia:ultimate_stew|0",
+      "emc": 149909
+    },
+    {
+      "item": "avaritia:singularity|12",
+      "emc": 142921800
+    },
+    {
+      "item": "redstonearsenal:storage|0",
+      "emc": 12537
+    },
+    {
+      "item": "redstonearsenal:material|128",
+      "emc": 1386
+    },
+    {
+      "item": "thermalfoundation:material|70",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|67",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|103",
+      "emc": 2304
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 2305
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 719
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 752
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|21",
+      "emc": 18792
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|19",
+      "emc": 14696
+    },
+    {
+      "item": "thermaldynamics:duct_0|2",
+      "emc": 586
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 816
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|23",
+      "emc": 3904
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|24",
+      "emc": 9024
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|25",
+      "emc": 32074
+    }
+  ]
+}
